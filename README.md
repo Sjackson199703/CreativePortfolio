@@ -1,3 +1,2 @@
 # CreativePortfolio
-Created By Shannon Jackson
-
+Created with CodeSandbox
